@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div id="header" align="center">
-  <img src="https://res.cloudinary.com/hxn7xk7oa/image/fetch/c_lfill,w_1200,h_1200,q_100,f_auto/https://images.ongaia.com/ipfs/QmNjpiA5XVNHTsoeztQ1DsYYCnW9rpsKgv1BhJK8ZvnK7z" width="100"/>
+  <img src="https://res.cloudinary.com/hxn7xk7oa/image/fetch/c_lfill,w_1200,h_1200,q_100,f_auto/https://images.ongaia.com/ipfs/QmNjpiA5XVNHTsoeztQ1DsYYCnW9rpsKgv1BhJK8ZvnK7z" width="200"/>
 </div>
 
 **Palakii/Palakii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
