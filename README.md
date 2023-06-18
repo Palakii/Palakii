@@ -1,8 +1,6 @@
 <div align="center">
-  <h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/> Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/></h1>
+  <h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/> GitHub profile <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/></h1>
 </div>
-
-<!--### Hi there 👋--> 
 
 <div id="header" align="center">
   <img src="https://res.cloudinary.com/hxn7xk7oa/image/fetch/c_lfill,w_1200,h_1200,q_100,f_auto/https://images.ongaia.com/ipfs/QmNjpiA5XVNHTsoeztQ1DsYYCnW9rpsKgv1BhJK8ZvnK7z" width="200"/>
@@ -19,7 +17,9 @@
 </div>
 
 <br>
-**Palakii/Palakii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<div align="center">
+🌈 hey there , this is my world right now.
 
 Here are some ideas to get you started:
 
@@ -31,3 +31,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+/div>
