@@ -12,8 +12,8 @@
   <a href="https://twitter.com/iampalaki" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href="https://komarev.com/ghpvc/?Palakii">
-    <img src="https://komarev.com/ghpvc/?Palakii&style=flat-square&color=blue" alt=""/>
+  <a href="https://komarev.com/ghpvc/?username=your-github-username">
+    <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
   </a>
 </div>
 
