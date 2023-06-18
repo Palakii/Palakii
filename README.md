@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<div id="header" align="center">
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://res.cloudinary.com/hxn7xk7oa/image/fetch/c_lfill,w_1200,h_1200,q_100,f_svg/https://images.ongaia.com/ipfs/Qmbn8nBRPU2gbnREaX7hL6z7WsN28eeimAt3iViLy7pvEM)" width="100"/>
+</div>
+
 **Palakii/Palakii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
