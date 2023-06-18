@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>👋 Hey there 👋 </h1>
+  <h1>👋 Hey there 👋 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 </div>
 
 <!--### Hi there 👋--> 
@@ -16,9 +16,6 @@
 
 <div>
   <p></p>
-  <p></p>
-  <p></p>
-  
 </div>
 
 **Palakii/Palakii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
