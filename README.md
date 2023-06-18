@@ -1,4 +1,8 @@
-### Hi there 👋
+<div align="center">
+  <h1>Hi there</h1>
+</div>
+
+### Hi there 👋 
 
 <div id="header" align="center">
   <img src="https://res.cloudinary.com/hxn7xk7oa/image/fetch/c_lfill,w_1200,h_1200,q_100,f_auto/https://images.ongaia.com/ipfs/QmNjpiA5XVNHTsoeztQ1DsYYCnW9rpsKgv1BhJK8ZvnK7z" width="200"/>
