@@ -16,11 +16,10 @@
 
 <div>
   <p></p>
+  <p></p>
+  <p></p>
+  
 </div>
-
-
-
-
 
 **Palakii/Palakii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
