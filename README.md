@@ -12,11 +12,13 @@
   <a href="https://twitter.com/iampalaki" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  <br>
   <a href="https://komarev.com/ghpvc/?username=Palakii">
     <img src="https://komarev.com/ghpvc/?username=Palaki&style=flat-square&color=blue" alt=""/>
   </a>
 </div>
 
+<br>
 **Palakii/Palakii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
