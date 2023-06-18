@@ -10,7 +10,7 @@
   <a href="https://twitter.com/iampalaki" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href="https://discord.com/users/861828206290141185">
+  <a href="https://discord.com/users/861828206290141185" target="_blank">
     <img src="https://cloud.githubusercontent.com/assets/6291467/26705903/96c2d66e-477c-11e7-9f4e-f3c0efe96c9a.png" width="30" height="30"
   </a>
   
