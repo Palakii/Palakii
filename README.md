@@ -1,46 +1,26 @@
+<!-- ===== HEADER ===== -->
 <div align="center">
-  <h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/> GitHub Profile <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/></h1>
-</div>
 
-<div id="header" align="center">
-  <img src="https://res.cloudinary.com/hxn7xk7oa/image/fetch/c_lfill,w_1200,h_1200,q_100,f_auto/https://images.ongaia.com/ipfs/QmNjpiA5XVNHTsoeztQ1DsYYCnW9rpsKgv1BhJK8ZvnK7z" width="200"/>
-</div>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWF6ZWh1ejdiYnUzZjZybGtyd3Y1eWxyNDNrbGtkdTd2MzliZ3luOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ef61oIGVyckY8/giphy.gif" width="50%" />
 
-<div id="badges" align="center">
-  <a href="https://twitter.com/iampalaki" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  <a href="https://discord.com/users/861828206290141185" target="_blank">
-    <img src="https://cloud.githubusercontent.com/assets/6291467/26705903/96c2d66e-477c-11e7-9f4e-f3c0efe96c9a.png" width="30" height="30"
-  </a>
-  
-  <br>
-  <a href="https://komarev.com/ghpvc/?username=Palakii">
-    <img src="https://komarev.com/ghpvc/?username=Palaki&style=flat-square&color=blue" alt=""/>
-  </a>
-</div>
+<h1>👋 Hey, I'm Palaki</h1>
 
-<br>
+<p>
+🎨 NFT Creator | ⚡ Onchain Builder | 🌏 Web3 Explorer
+</p>
 
-<div align="center">
-  <p>    🌈 Hey there , this is my world right now.
-    
-    Here are some ideas to get you started:
-  </p>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/PlayerUnknown%27s_Battlegrounds_Mobile.webp/180px-PlayerUnknown%27s_Battlegrounds_Mobile.webp.png" title="pubgm" alt="pubgm" width="40" height="40"/>&nbsp;
-
+<!-- Typing effect -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F78C6C&center=true&vCenter=true&width=500&lines=Building+onchain+worlds...;Anime+%2B+Web3+%3D+My+Style;Welcome+to+my+universe+%F0%9F%8C%8C" />
 
 </div>
 
-<br>
+---
 
-### :fire: My Stats :
-<br>
+<!-- ===== NOW BUILDING (EDIT EASY) ===== -->
+## 🚧 Now Building
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Palakii&theme=gruvbox&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Palakii&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
+```txt
+Project : Furari World
+Network : Arc Testnet
+Status  : Building Core Systems + NFT Layer
+Update  : Actively shipping ⚡
